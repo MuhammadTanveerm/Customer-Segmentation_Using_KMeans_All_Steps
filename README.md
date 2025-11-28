@@ -1,2 +1,8 @@
-# Customer-Segmentation_Using_KMeans_All_Steps
-Segment customers into distinct groups so business can  target marketing, offers, and product mixes. **Dataset (example):** *Mall Customers* — columns: `CustomerID`,  `Gender`, `Age`, `Annual Income (k$)`, `Spending Score (1-100)`.
+*      Dataset + description + source link
+*      Clear problem statement & business value
+*      EDA with visuals + observations
+*      Preprocessing & feature selection rationale
+*      Clustering method(s) + hyperparam selection (Elbow & Silhouette)
+*      Cluster profiling (tables + narratives)
+*      Business actions per segment + KPIs to track (conversion, CLV)
+*      Optional: dashboard / REST API / reproducible pipeline
